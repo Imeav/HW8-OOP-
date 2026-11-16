@@ -1,0 +1,15 @@
+K:\Programming\hm8\3\bin\Debug\net10.0\3.exe
+K:\Programming\hm8\3\bin\Debug\net10.0\3.deps.json
+K:\Programming\hm8\3\bin\Debug\net10.0\3.runtimeconfig.json
+K:\Programming\hm8\3\bin\Debug\net10.0\3.dll
+K:\Programming\hm8\3\bin\Debug\net10.0\3.pdb
+K:\Programming\hm8\3\obj\Debug\net10.0\3.GeneratedMSBuildEditorConfig.editorconfig
+K:\Programming\hm8\3\obj\Debug\net10.0\3.AssemblyInfoInputs.cache
+K:\Programming\hm8\3\obj\Debug\net10.0\3.AssemblyInfo.cs
+K:\Programming\hm8\3\obj\Debug\net10.0\3.csproj.CoreCompileInputs.cache
+K:\Programming\hm8\3\obj\Debug\net10.0\3.dll
+K:\Programming\hm8\3\obj\Debug\net10.0\refint\3.dll
+K:\Programming\hm8\3\obj\Debug\net10.0\3.pdb
+K:\Programming\hm8\3\obj\Debug\net10.0\3.genruntimeconfig.cache
+K:\Programming\hm8\3\obj\Debug\net10.0\ref\3.dll
+K:\Programming\hm8\3\obj\Debug\net10.0\3.csproj.Up2Date
